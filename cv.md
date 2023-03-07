@@ -39,6 +39,8 @@ s *= number;
 return s;
 }
 ````
+# Experience
+I have no programming experience, but I really very want to stay a frontend developer 
 
 # Education
 * University: Belarusian National Technical University
